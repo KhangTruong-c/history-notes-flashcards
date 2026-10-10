@@ -1,0 +1,9 @@
+segments/
+*.m4a
+*.mp3
+*.wav
+transcripts/
+private/
+__pycache__/
+*.pyc
+.DS_Store
